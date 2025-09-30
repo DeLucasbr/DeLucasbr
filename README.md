@@ -20,7 +20,7 @@ I'm a developer and student passionate about building solutions that make a diff
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
-<a href="mailto:youremail@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="youremail@example.com" height="30" width="40" /></a>
+<a href="mailto:lucasamorimsena8181@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="lucasamorimsena8181@gmail.com" height="30" width="40" /></a>
 </p>
 
 ---
